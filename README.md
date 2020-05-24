@@ -1,3 +1,8 @@
+> Este proyecto es el seguimiento del curso de *midudev* de React, a partir de la clase 2:
+https://midu.dev/curso-gratis-react-2020/
+
+__________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
